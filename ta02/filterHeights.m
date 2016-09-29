@@ -1,0 +1,1 @@
+filteredHeight = flatHeight.*isBetween(flatHeight, 20, 50);
